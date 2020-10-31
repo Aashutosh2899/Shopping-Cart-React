@@ -1,0 +1,76 @@
+{
+    "products":[
+    {
+        "_id":"dress-1",
+        "image":"/images/dress-7.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["XL","XXL"],
+        "price":19
+    },
+    {
+        "_id":"dress-2",
+        "image":"/images/dress-2.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchangedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["XL","XXL","M","L"],
+        "price":19.5
+    },
+    {
+        "_id":"dress-3",
+        "image":"/images/dress-3.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchangedLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["XL","XXL","L","S"],
+        "price":23
+    },
+    {
+        "_id":"dress-4",
+        "image":"/images/dress-7.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["XL","XXL"],
+        "price":25
+    },
+    {
+        "_id":"dress-5",
+        "image":"/images/dress-8.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["XL","XXL","L"],
+        "price":28
+    },
+    {
+        "_id":"dress-6",
+        "image":"/images/dress-6.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["XL","XXL","S"],
+        "price":19
+    },
+    {
+        "_id":"dress-7",
+        "image":"/images/dress-7.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["L","XL"],
+        "price":30
+    },
+    {
+        "_id":"dress-8",
+        "image":"/images/dress-8.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["M","XXL"],
+        "price":49
+    },
+    {
+        "_id":"dress-9",
+        "image":"/images/dress-8.jpg",
+        "title":"Cotton Bubble Hem Dress",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+        "availableSizes":["M","L"],
+        "price":69
+    }
+]
+}
